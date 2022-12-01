@@ -467,7 +467,7 @@ section {
 }
 
 .footer__logo {
-    width: 100%;
+    width: min(100%, 70rem);
     transition: var(--d) ease-in-out;
 }
 
